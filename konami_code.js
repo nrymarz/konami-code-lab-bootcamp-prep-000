@@ -24,5 +24,5 @@ function codecheck(e) {
   }
 }
 function init() {
-  document.body.addEventListener("keydown",codecheck(event));
+  document.body.addEventListener("keydown",codecheck);
 }
