@@ -16,7 +16,7 @@ function codecheck(e) {
   if (key === codes[index]) {
     index++;
     if (index === codes.length) {
-      alert("Congratulations!");
+      alert("Hurray");
     }
   }
   else {
