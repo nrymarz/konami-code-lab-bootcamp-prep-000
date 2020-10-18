@@ -23,7 +23,6 @@ function codecheck(e) {
     index = 0;
   }
 }
-}
 function init() {
   document.body.addEventListener("keydown",codecheck(e));
 }
